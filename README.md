@@ -12,7 +12,7 @@ Add [Jitpack](https://www.jitpack.io/#strubium/JavaWindowManager) to your build.
 Add SmeagleBus to your dependencies block
 
 ```
-	        implementation 'com.github.strubium:SmeagleBus:1.0.0'
+implementation 'com.github.strubium:SmeagleBus:1.0.0'
 ```
 
 ### Usage
