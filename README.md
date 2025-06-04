@@ -1,5 +1,5 @@
 # SmeagleBus
-SmeagleBus is a simple event bus implementation using Rxjava3. It allows you to easily register listeners, post events, and handles events in priority order. 
+SmeagleBus is a simple event bus implementation. It allows you to easily register listeners, post events, and handles events in priority order. 
 It supports cancelable events, so if an event is canceled, further processing  will stop.
 
 ## Installing
